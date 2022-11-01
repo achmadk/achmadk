@@ -7,7 +7,11 @@
 
 ## 📚 Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - [Easier Qurban Experience &lpar;EQExp&rpar; for July Hashnode Hackathon - Part 2](https://blogs.achmadk.dev/easier-qurban-experience-eqexp-for-july-hashnode-hackathon-part-2)
+ - [Easier Qurban Experience &lpar;EQExp&rpar; for July Hashnode Hackathon - Part 1](https://blogs.achmadk.dev/easier-qurban-experience-for-july-hashnode-hackathon)
+ - [Variety of Apps that can be written in JavaScript](https://blogs.achmadk.dev/variety-of-apps-that-can-be-written-in-javascript)
+ - [Make your React App can&#39;t be exposed by React DevTools](https://blogs.achmadk.dev/make-your-react-app-cant-be-exposed-by-react-devtools)
+ - [Why You Should Learn JavaScript Programming Language](https://blogs.achmadk.dev/why-you-should-learn-javascript-programming-language)<!-- BLOGPOSTS:END -->
 
 ## 🌐 Social Medias:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achmadk.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achmadkurnianto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@achmad.kurnianto) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AchmadkDev) 
