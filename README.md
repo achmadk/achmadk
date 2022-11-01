@@ -5,6 +5,9 @@
 # 💫 About Me:
 🔭 I’m currently working on ProcurA as Software Engineer<br>👯 I’m looking to collaborate on open source project, specially related to react components<br>🌱 I’m currently learning programming with JavaScript/TypeScript<br>💬 Ask me about web API, react, JavaScript, TypeScript<br>⚡ I love photography
 
+## 📚 Recent Blog Posts:
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 ## 🌐 Social Medias:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achmadk.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achmadkurnianto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@achmad.kurnianto) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AchmadkDev) 
