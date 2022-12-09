@@ -21,7 +21,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=achmadk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=achmadk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://wakatime.com/share/@achmadkurnianto/30b78387-db16-4bfb-aad0-ca4858cc6495.svg)<br/>
+![](https://wakatime.com/share/@achmadkurnianto/4b78a96d-fdac-459e-a80e-5d86d6a19316.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=achmadk&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
