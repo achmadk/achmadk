@@ -3,7 +3,7 @@
 [![@achmadk's Holopin board](https://holopin.io/api/user/board?user=achmadk)](https://holopin.io/@achmadk)
 
 # 💫 About Me:
-🔭 I’m currently working on ProcurA as Software Engineer<br>👯 I’m looking to collaborate on open source project, specially related to react components<br>🌱 I’m currently learning programming with JavaScript/TypeScript<br>💬 Ask me about web API, react, JavaScript, TypeScript<br>⚡ I love photography
+🔭 Currently, I am employed as a Software Engineer at ProcurA.<br>👯 I am seeking collaboration opportunities on open-source projects, particularly those involving react components.<br>🌱 At present, I am in the process of acquiring programming skills in JavaScript and TypeScript.<br>💬 Curious about Web API, React, JavaScript, or TypeScript? Feel free to ask me anything! 😊<br>⚡ I'm passionate about photography.
 
 ## 📚 Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
