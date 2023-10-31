@@ -7,11 +7,11 @@
 
 ## 📚 Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- - [[Dev Retro 2022] My Learnings as a Software Engineer in 2022](https://blogs.achmadk.dev/dev-retro-2022-my-learnings-as-a-software-engineer-in-2022)
- - [Easier Qurban Experience &lpar;EQExp&rpar; for July Hashnode Hackathon - Part 2](https://blogs.achmadk.dev/easier-qurban-experience-eqexp-for-july-hashnode-hackathon-part-2)
- - [Easier Qurban Experience &lpar;EQExp&rpar; for July Hashnode Hackathon - Part 1](https://blogs.achmadk.dev/easier-qurban-experience-for-july-hashnode-hackathon)
- - [Variety of Apps that can be written in JavaScript](https://blogs.achmadk.dev/variety-of-apps-that-can-be-written-in-javascript)
- - [Prevent Your React App from Being Exposed by React DevTools](https://blogs.achmadk.dev/prevent-your-react-app-from-being-exposed-by-react-devtools)<!-- BLOGPOSTS:END -->
+ - [[Dev Retro 2022] My Learnings as a Software Engineer in 2022](https://achmadk.hashnode.dev/dev-retro-2022-my-learnings-as-a-software-engineer-in-2022)
+ - [Easier Qurban Experience &lpar;EQExp&rpar; for July Hashnode Hackathon - Part 2](https://achmadk.hashnode.dev/easier-qurban-experience-eqexp-for-july-hashnode-hackathon-part-2)
+ - [Easier Qurban Experience &lpar;EQExp&rpar; for July Hashnode Hackathon - Part 1](https://achmadk.hashnode.dev/easier-qurban-experience-for-july-hashnode-hackathon)
+ - [Variety of Apps that can be written in JavaScript](https://achmadk.hashnode.dev/variety-of-apps-that-can-be-written-in-javascript)
+ - [Prevent Your React App from Being Exposed by React DevTools](https://achmadk.hashnode.dev/prevent-your-react-app-from-being-exposed-by-react-devtools)<!-- BLOGPOSTS:END -->
 
 ## 🌐 Social Medias:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achmadk.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achmadkurnianto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@achmad.kurnianto) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AchmadkDev) 
