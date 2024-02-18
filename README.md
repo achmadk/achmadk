@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/achmadkurnianto"><img src="https://api.daily.dev/devcards/652a7f49ec5c4a1a936bb1faf9a25f81.png?r=qhn" width="400" alt="Achmad Kurnianto's Dev Card"/></a>
+<a href="https://app.daily.dev/achmadkurnianto"><img src="https://api.daily.dev/devcards/v2/WLZ4BNzNh61LpSphRJjQx.png?r=iap&type=default" width="356" alt="Achmad Kurnianto's Dev Card"/></a>
 
 [![@achmadk's Holopin board](https://holopin.io/api/user/board?user=achmadk)](https://holopin.io/@achmadk)
 
