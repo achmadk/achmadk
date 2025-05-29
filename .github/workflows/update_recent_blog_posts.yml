@@ -17,3 +17,5 @@ jobs:
          template: "$newline - [$title]($url)"
          commit_message: "recent posts section updated"
          gh_token: ${{ secrets.GITHUB_TOKEN }}
+         retry_count: 3
+         retry_wait_time: 60
