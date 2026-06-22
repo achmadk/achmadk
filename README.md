@@ -2,8 +2,27 @@
 
 [![@achmadk's Holopin board](https://holopin.io/api/user/board?user=achmadk)](https://holopin.io/@achmadk)
 
-# 💫 About Me:
-🔭 Currently, I am employed as a Software Engineer at ProcurA.<br>👯 I am seeking collaboration opportunities on open-source projects, particularly those involving react components.<br>🌱 At present, I am in the process of acquiring programming skills in JavaScript and TypeScript.<br>💬 Curious about Web API, React, JavaScript, or TypeScript? Feel free to ask me anything! 😊<br>⚡ I'm passionate about photography.
+## Hi there, I'm Achmad Kurnianto 👋
+
+I am a **Systems-Focused Frontend Engineer** dedicated to building high-performance web applications and native tools. I specialize in bridging the gap between modern client-side architectures and high-throughput systems tooling using **TypeScript, Rust, and WebAssembly**. 
+
+With deep experience modernizing legacy architectures and shipping production-grade applications, I focus on performance optimization, cryptographically secure workflows, and predictable state management.
+
+---
+
+### 🛠️ Core Expertise
+
+*   **Frontend Architecture:** React, Next.js, TypeScript, State Optimization, Modern Module Federation
+*   **Systems & Tooling:** Rust, WebAssembly (Wasm), Node.js Native Addons, Secure Token Implementations (PASETO)
+*   **Database & Integration:** PostgreSQL, RESTful APIs, High-Performance Microservices
+
+---
+
+### 🧪 Active Projects & Open Source
+
+*   **[paseto-wasm](https://github.com/achmadk/paseto-wasm):** A security-focused, high-performance PASETO (Platform-Agnostic Security Tokens) implementation written in Rust and compiled for the NPM registry and crates.io.
+*   **[react-loading-overlay-ts](https://github.com/achmadk/react-loading-overlay-ts):** A production-maintained, fully type-safe React loading overlay component designed for seamless UI integration.
+*   **[Weekly Meal Planner](https://weeklymealplanner.achmadk.com):** A client-side optimized SaaS architecture showcasing performant state handling and offline-first storage patterns.
 
 ## 📚 Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
